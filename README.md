@@ -53,6 +53,6 @@ Refine Model: Experiment with different LSTM architectures, hyperparameter tunin
 
 Continuous Learning: Develop a framework for continuous model retraining to adapt to dynamic market conditions.
 
-Conclusion
+Conclusion:
 
 This article provides a glimpse into the creation and evaluation of a machine learning model for Apple stock price forecasting. While the model shows promise in capturing trends and generating plausible predictions, it's important to remember that forecasting the stock market remains a complex and challenging task. Ongoing research, data refinement, and continuous learning will be crucial for building a more robust and reliable forecasting system.
