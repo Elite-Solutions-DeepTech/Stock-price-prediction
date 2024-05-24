@@ -4,7 +4,7 @@ Abstract: Stock Price Prediction using LSTM
 
 Abstract
 
-This study explores the efficacy of Long Short-Term Memory (LSTM) networks, a powerful type of recurrent neural network, for predicting stock prices. Leveraging historical stock data, including features such as open, high, low, close prices, and volume, the LSTM model learns complex temporal patterns and long-term dependencies inherent in financial time series. The model is trained and evaluated using [mention your dataset source and stock ticker] data, employing techniques like data normalization and feature engineering to optimize performance.
+This study explores the efficacy of Long Short-Term Memory (LSTM) networks, a powerful type of recurrent neural network, for predicting stock prices. Leveraging historical stock data, including features such as open, high, low, close prices, and volume, the LSTM model learns complex temporal patterns and long-term dependencies inherent in financial time series. The model is trained and evaluated using [mention your dataset source and stock ticker] data, employing techniques like data normalization and feature engineering to optimize performance..
 
 Technologies Used:
 
